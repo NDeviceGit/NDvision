@@ -1,0 +1,17 @@
+# NDvision 프로젝트 필수 패키지
+# Python version: 3.8+
+
+# Computer Vision and Image Processing
+opencv-python==4.8.1.78
+numpy==1.24.3
+
+# Image Processing and Visualization
+matplotlib==3.7.2
+Pillow==10.0.0
+
+# Machine Learning and Object Detection
+ultralytics==8.0.196
+
+# Optional dependencies for better performance
+# torch>=1.9.0  # Required by ultralytics (will be auto-installed)
+# torchvision>=0.10.0  # Required by ultralytics (will be auto-installed)

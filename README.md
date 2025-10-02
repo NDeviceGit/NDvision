@@ -28,3 +28,11 @@ cd NDvision
 - **[04_Environment Detection](https://github.com/Jaeyoung-Lee/NDvision/blob/main/example/Environment%20Detection/main.py)** : 실시간 영상에서 상황을 검출할 수 있는 예제
 - **[05_Data Training](https://github.com/Jaeyoung-Lee/NDvision/blob/main/example/Data%20Training/main.py)** : PyTorch 모델 학습 후
 - **06_Upload to NDvision** : NDvision제품에 업로드를 하고 PC에서 처리하는 것과 비교를 해볼 수 있는 예제
+
+
+🔧 3. 고장진단  
+파이썬 코드를 실행시 모듈들이 설치되지 않았을 수 있습니다. 그러한 경우에는 아래의 명령어를 실행해 주십시오.
+
+```powerhsell
+pip install -r requirements.txt
+```
