@@ -27,7 +27,11 @@ cd NDvision
 - **[03_Object Detection](https://github.com/Jaeyoung-Lee/NDvision/blob/main/example/Object%20Detection/main.py)** : 이미지에서 물체를 검출하는 예제
 - **[04_Environment Detection](https://github.com/Jaeyoung-Lee/NDvision/blob/main/example/Environment%20Detection/main.py)** : 실시간 영상에서 상황을 검출할 수 있는 예제
 - **[05_Data Training](https://github.com/Jaeyoung-Lee/NDvision/blob/main/example/Data%20Training/main.py)** : PyTorch 모델 학습 후
-- **06_Upload to NDvision** : NDvision제품에 업로드를 하고 PC에서 처리하는 것과 비교를 해볼 수 있는 예제
+- **06_물건재고파악** : NDvision제품에 업로드를 하고 PC에서 처리하는 것과 비교를 해볼 수 있는 예제
+- **07_차량번호인식** : NDvision제품에 업로드를 하고 PC에서 처리하는 것과 비교를 해볼 수 있는 예제
+- **08_차선인식** : NDvision제품에 업로드를 하고 PC에서 처리하는 것과 비교를 해볼 수 있는 예제
+- **09_가상마우스** : NDvision제품에 업로드를 하고 PC에서 처리하는 것과 비교를 해볼 수 있는 예제
+- **10_Upload to NDvision** : NDvision제품에 업로드를 하고 PC에서 처리하는 것과 비교를 해볼 수 있는 예제 
 
 
 🔧 3. 고장진단  
